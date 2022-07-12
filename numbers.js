@@ -1,0 +1,22 @@
+let myAge = 29
+let yearOfBirth = 1993 
+let dateOfBirth = 22.07
+let amountBrothers = 3
+let amountSisters = 3
+let familyMembers = 8
+let costToPlaceStudy = 120
+let thisYear = 2022
+let rateOfDollar = 61
+let rateOfEuro = 61
+let rateOfBitok = 1247084
+
+let res1 = thisYear - yearOfBirth
+let res2 = thisYear - myAge
+let res3 = amountBrothers + amountSisters
+let res4 = rateOfEuro * 1000
+let res5 = rateOfDollar * 2.5
+let res6 = rateOfBitok / 10000
+let res7 = costToPlaceStudy / rateOfDollar
+let res8 = familyMembers - amountBrothers - amountSisters
+let res9 = 0 / myAge
+let res10 = 35 - myAge
